@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=username\ password
+comment1.target=void\ database(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ cek()
+comment4.params=
+comment4.target=void\ pengecekan()
+comment5.params=
+comment5.target=MyWorld()
+comment6.params=
+comment6.target=void\ DB()
+comment7.params=point
+comment7.target=void\ updatenilai(char)
+comment8.params=
+comment8.target=void\ tampilan()
+comment9.params=
+comment9.target=void\ prepare()
+comment9.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=10
